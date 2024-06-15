@@ -1,0 +1,24 @@
+# TEVECOM SAS Geofeed
+# This feed is encoded in RFC 8805 format.
+# Publication date: 2024-06-12
+#
+# This data feed provides approximate geo locations for a subset of
+# TEVECOM SAS IP space, and the data included in this feed may be used only
+# for improving the accuracy of Geo:IP lookups
+# ASN 272058 (rfc3339)
+38.252.88.0/24,CO,CO-ANT,Envigado,055422
+38.252.89.0/24,CO,CO-ANT,Itagui,055417
+38.252.90.0/24,CO,CO-ANT,Jerico,056010
+38.252.91.0/24,CO,CO-ANT,Belen,050026
+38.252.92.0/24,CO,CO-CUN,Caparrapi,253460
+38.252.93.0/24,CO,CO-ANT,Envigado,055422
+38.252.94.0/24,CO,CO-ANT,Envigado,055422
+38.252.95.0/24,CO,CO-ANT,Envigado,055422
+2803:310::/36,CO,CO-ANT,Envigado,055422
+2803:310:1000::/36,CO,CO-ANT,Itagui,055417
+2803:310:2000::/36,CO,CO-ANT,Jerico,056010
+2803:310:3000::/36,CO,CO-ANT,Belen,050026
+2803:310:4000::/36,CO,CO-CUN,Caparrapi,253460
+2803:310:5000::/36,CO,CO-ANT,Envigado,055422
+2803:310:6000::/36,CO,CO-ANT,Envigado,055422
+2803:310:7000::/36,CO,CO-ANT,Envigado,055422
